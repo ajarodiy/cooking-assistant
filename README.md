@@ -9,6 +9,11 @@ Welcome to the Cooking Assistant Chatbot project! This application is designed t
 - Propose fun and creative recipe themes.
 - Provide a humorous and friendly interaction experience.
 
+## Images
+
+![Interface](images/interface.png "Interface")
+![Demo](images/demo.png "Demo")
+
 ## Getting Started
 
 ### Prerequisites

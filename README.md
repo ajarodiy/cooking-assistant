@@ -11,8 +11,8 @@ Welcome to the Cooking Assistant Chatbot project! This application is designed t
 
 ## Images
 
-![Interface](/images/interface.png "Interface")
-![Demo](/images/demo.png "Demo")
+![Interface](public/images/interface.png "Interface")
+![Demo](public/images/demo.png "Demo")
 
 ## Getting Started
 
